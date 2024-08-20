@@ -1,0 +1,26 @@
+Lundi 19/08/2024 : *
+
+
+Début de la modélisation de données 
+Le recueiel d'informations
+
+Interview / Enquete
+ 
+Etude des documents internes
+ 
+Etudes des documents externes
+ 
+Les types d'information
+ 
+Les info elementaires
+Une fois elemnbteiare doit etre atomique:
+'34 rue de la paix, 89000 Auxerre'
+  dependances fonctionelles
+ 
+Niveaux = (Conceptuel; Organissationnel; Loguque; Physique)
+Donnees= (Modele conceptuel des donnees; Modele organissationnel des donnees; Modele logique des donnees; Modele physique des donnees)
+Traitements = (Modele conceptuel des traitements; modele organissationnel des traitements; modelé logique des traitements; modele opérationnel et physique des traitements)
+  
+Une entité forte elle peut exister toute seul et mère 
+L’entité enfant est défini comme une entité faible 
+Elle est considérer comme associer a une autre entité 
